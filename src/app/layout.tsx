@@ -6,7 +6,7 @@ import './global.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Chadt PDF'
+  title: 'Chat PDF'
 }
 
 export default function RootLayout({
